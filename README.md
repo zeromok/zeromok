@@ -4,7 +4,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=zeromok)](https://solved.ac/zeromok)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromok&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromok)
 
 </div>
 
